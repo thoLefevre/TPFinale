@@ -1,0 +1,20 @@
+diV.titre{
+font-size: 15;
+float: auto ;
+}
+div.sous-titres{
+    color: rgb(0, 95, 67);
+    font-size:  30;
+}
+
+div.paragraphe {
+font-size: 25;
+color:black
+
+
+}
+div.fit-picture{
+      height: 50px;
+    width: 65px;
+    padding: 20px
+}
